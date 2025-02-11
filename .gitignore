@@ -52,7 +52,6 @@ patches/**/*.patchinfo
 debug.log
 npm-debug.log
 .npmrc*
-.env*
 engflow.crt
 *.key
 privkey.pem
@@ -75,3 +74,4 @@ xcuserdata
 
 # buffer exclusion file generated locally during sync
 build/config/unsafe_buffers_paths.txt
+config.bat
